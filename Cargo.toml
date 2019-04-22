@@ -1,0 +1,9 @@
+[package]
+name = "renderer"
+version = "0.1.0"
+authors = ["Nuno Das Neves"]
+edition = "2018"
+
+[dependencies]
+comrak = "0.4"
+handlebars = "1.1.0"
