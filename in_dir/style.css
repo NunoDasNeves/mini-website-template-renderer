@@ -41,11 +41,17 @@ li {
 #content {
   padding:60px 150px ;
   height:100%;
+  width:85%;
 }
 
 #nav {
   min-height:100%;
   padding:40px 30px;
-  width:220px;
+  width:15%;
   background-color: #454555;
+}
+
+.blog-tile {
+  text-decoration: none;
+  color: #f9f9e9;
 }

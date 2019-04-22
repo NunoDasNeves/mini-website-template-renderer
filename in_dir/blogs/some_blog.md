@@ -1,5 +1,4 @@
 # My new blog
-
 ## Nuno Das Neves
 ### 14 April 2019
 
