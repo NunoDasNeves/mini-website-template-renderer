@@ -5,5 +5,5 @@ authors = ["Nuno Das Neves"]
 edition = "2018"
 
 [dependencies]
-comrak = "0.4"
+comrak = "0.6"
 handlebars = "1.1.0"
